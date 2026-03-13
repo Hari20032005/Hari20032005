@@ -6,5 +6,5 @@ I am hariharan
 - 📫 How to reach me: hariharan944212005@gmail.com
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari20032005&show_icons=true&theme=radical)
 -->
