@@ -89,10 +89,3 @@
 
 ---
 
-⭐ **“Consistency beats intensity. Build every day.”**
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari20032005&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari20032005&theme=dark)
--->
-## 🚀 Open Source Contributions
-- Zulip: https://github.com/zulip/zulip/pull/38394
