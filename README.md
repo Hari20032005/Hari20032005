@@ -7,6 +7,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari20032005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari20032005&theme=radical" />
+</p>
+---
+
 ## 🚀 About Me
 - 🎓 Integrated M.Tech Software Engineering student @ VIT Vellore  
 - 💻 Passionate about scalable systems & AI-powered applications  
@@ -63,14 +71,7 @@
 - 📊 Azure Data Fundamentals (DP-900)  
 - 🎓 ML Specialization – Stanford  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari20032005&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari20032005&theme=radical" />
-</p>
 
 ---
 
